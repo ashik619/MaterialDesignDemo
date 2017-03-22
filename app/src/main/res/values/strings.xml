@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="adressText">Street No 243,\nNear ground Gulshan Bazar \nNawanshahr punjab-144514</string>
+</resources>
